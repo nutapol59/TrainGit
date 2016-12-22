@@ -1,4 +1,3 @@
-
 guy
 
 nut
@@ -6,3 +5,5 @@ nut
 baze
 
 keng
+
+guy naja
